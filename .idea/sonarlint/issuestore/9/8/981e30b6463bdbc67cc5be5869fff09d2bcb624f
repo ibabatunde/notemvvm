@@ -1,0 +1,9 @@
+
+~
+java:S1450"\Remove the "noteViewModel" field and declare it as a local variable in the relevant methods.(¶ã¾ÿùÿÿÿÿ8¤¥èù“.
+c
+java:S1128"ARemove this unused import 'androidx.lifecycle.ViewModelProvider'.(ª´÷©øÿÿÿÿ8îƒ‚ú“.
+V
+java:S1874":Remove this use of "ViewModelProviders"; it is deprecated.(é¤·O8«¡ˆú“.
+F
+java:S1874"*Remove this use of "of"; it is deprecated.(é¤·O8«¡ˆú“.
